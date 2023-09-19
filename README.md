@@ -1,5 +1,8 @@
-<img src="https://media.tenor.com/1-Y__xmzLAUAAAAC/jujutsu-kaisen-hand-signs.gif" align='center'>
+<div align="center">
 
+<p align="left"></p><img align=center src="https://media.tenor.com/1-Y__xmzLAUAAAAd/jujutsu-kaisen-hand-signs.gif" height= 1300px width= 2000px>
+
+</div>
 
 
 <div align="center">  
@@ -31,8 +34,7 @@
 
 <div align="center">
 <br><p align="left"><b>Visitors Count</b></p>  
-<p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> 
+<p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> <img align=right   src="https://media.tenor.com/G2SZGmJp_t0AAAAC/satoru-gojo-gojo-satoru.gif" height= 130px>
 <br>
 </div>
 
-![satoshi](https://github.com/devGojo/devGojo/assets/141841936/ea69c409-fc5e-4fea-8d3a-6e02aaf34013) align="right"
