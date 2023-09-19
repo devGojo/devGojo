@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Expansão+De+Domínio+;+Muryōkūsho+&#8734;!)](https://git.io/typing-svg)  
+
 <div align="center">
-
-<p align="left"></p><img align=center src="https://media.tenor.com/1-Y__xmzLAUAAAAd/jujutsu-kaisen-hand-signs.gif" height= 1300px width= 2000px>
-
+<p align="left"></p><img align=center src="
+https://media.tenor.com/MuMLDWrW95gAAAAd/gojo-domain-expansion.gif" height= 330px width= 2000px>
 </div>
 
 
