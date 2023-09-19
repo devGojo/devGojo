@@ -31,6 +31,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devGojo}/count.svg" /></p> 
+<p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> 
 <br>
 </div>
