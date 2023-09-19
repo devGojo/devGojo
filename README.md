@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Expansão+De+Domínio+;+Muryōkūsho+&#8734;!)](https://git.io/typing-svg)  
-
 <div align="center">
-<p align="left"></p><img align=center src="
-https://media.tenor.com/MuMLDWrW95gAAAAd/gojo-domain-expansion.gif" height= 330px width= 2000px>
+<p align="left"></p><img align=center src="https://media.tenor.com/MuMLDWrW95gAAAAd/gojo-domain-expansion.gif" height= 330px width= 2000px>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Expansão+De+Domínio+;+Muryōkūsho+&#8734;!)](https://git.io/typing-svg)  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devGojo&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=c9d1d9&bg_color=0d1117" alt="devGojo github stats" /> 
@@ -25,7 +23,7 @@ https://media.tenor.com/MuMLDWrW95gAAAAd/gojo-domain-expansion.gif" height= 330p
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+<img align=right src="https://media.tenor.com/pDdEDUhMvpYAAAAd/gojo-satoru-geto.gif"  style="float:left;width:230px;height:200px;">
 
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -33,9 +31,10 @@ https://media.tenor.com/MuMLDWrW95gAAAAd/gojo-domain-expansion.gif" height= 330p
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+
 <div align="center">
-<br><p align="left"><b>Visitors Count</b></p>  
-<p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> <img align=right   src="https://media.tenor.com/G2SZGmJp_t0AAAAC/satoru-gojo-gojo-satoru.gif" height= 130px>
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="center" /></p>
 <br>
 </div>
 
