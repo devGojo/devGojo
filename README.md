@@ -34,4 +34,5 @@
 <p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> 
 <br>
 </div>
-![gojo-satoru-gojo](https://github.com/devGojo/devGojo/assets/141841936/14d93137-ff72-4885-86d7-3c41d40d8215)
+
+![satoshi](https://github.com/devGojo/devGojo/assets/141841936/ea69c409-fc5e-4fea-8d3a-6e02aaf34013)
