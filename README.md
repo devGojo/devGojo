@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Expansão+De+Domínio+;+Muryōkūsho+&#8734;!)](https://git.io/typing-svg)  
+<img src="https://media.tenor.com/1-Y__xmzLAUAAAAC/jujutsu-kaisen-hand-signs.gif" align='center'>
 
 
 
