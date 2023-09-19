@@ -32,6 +32,6 @@
 <div align="center">
 <br><p align="left"><b>Visitors Count</b></p>  
 <p align="left"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="left" /></p> 
-![satoru-gojo-gojo-satoru](https://github.com/devGojo/devGojo/assets/141841936/b3e37b3f-656a-43e6-b04b-d0b413d17962)
 <br>
 </div>
+![gojo-satoru-gojo](https://github.com/devGojo/devGojo/assets/141841936/14d93137-ff72-4885-86d7-3c41d40d8215)
