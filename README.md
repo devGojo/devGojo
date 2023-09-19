@@ -35,4 +35,4 @@
 <br>
 </div>
 
-![satoshi](https://github.com/devGojo/devGojo/assets/141841936/ea69c409-fc5e-4fea-8d3a-6e02aaf34013)
+![satoshi](https://github.com/devGojo/devGojo/assets/141841936/ea69c409-fc5e-4fea-8d3a-6e02aaf34013) align="right"
