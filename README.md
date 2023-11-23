@@ -1,5 +1,5 @@
 <div align="center">
-<p align="left"></p><img align=center src="https://tenor.com/pt-BR/view/jujutsu-kaisen-gojo-throughout-heaven-and-earth-i-alone-am-the-honored-one-gojo-heaven-gif-17924837458474274735" height= 330px width= 2000px>
+<p align="left"></p><img align=center src="https://media.tenor.com/-MHQstj5j68AAAAd/jujutsu-kaisen-gojo.gif" height= 330px width= 2000px>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Expansão+De+Domínio+;+Muryōkūsho+&#8734;!)](https://git.io/typing-svg)  
