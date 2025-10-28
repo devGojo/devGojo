@@ -33,8 +33,8 @@
 
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</br></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="center" /></p>
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/{devGojo}/count.svg" align="center"/img></p>
 <br>
 </div>
 
