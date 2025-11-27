@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img align=right src="https://media.tenor.com/pDdEDUhMvpYAAAAd/gojo-satoru-geto.gif"  style="float:left;width:230px;height:200px;">
+<img align=right src="https://media1.tenor.com/m/yWFnaCMWn6oAAAAC/batman-cape.gif"  style="float:left;width:230px;height:200px;">
 
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
