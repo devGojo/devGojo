@@ -2,7 +2,7 @@
 <p align="left"></p><img align=center src="https://media1.tenor.com/m/T7JhT1RjhxIAAAAC/lies-the-batman.gif" height= 530px width= 1000px>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Entre+o+céu+e+a+terra;+Sou+o+mais+Honrado+&#8734;!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Se+você+for+a+justiça;Responda+sem+troça...;Quanto+custa+para+você+fazer+Vista+Grossa...??+&#8734;!)](https://git.io/typing-svg)  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CavaleiroDasTrevass&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=c9d1d9&bg_color=0d1117" alt="devGojo github stats" /> 
